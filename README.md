@@ -1,4 +1,4 @@
-## Welcome to TreeHole of ChenChen
+## Welcome to TreeHole
 
 [更新树洞问题和回答](https://github.com/zhanghfan/TreeHole/edit/master/README.md) 
 
