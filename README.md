@@ -1,7 +1,7 @@
 ## Welcome to TreeHole with ChenChen
 
 [更新树洞问题和回答](https://github.com/zhanghfan/TreeHole/edit/master/README.md)   
-[查看帮助](https://github.com/zhanghfan/TreeHole/master/README.md)
+[查看帮助](https://github.com/zhanghfan/TreeHole/blob/master/help.md)
 
 
 # Day3  
