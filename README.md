@@ -2,34 +2,21 @@
 
 [更新树洞问题和回答](https://github.com/zhanghfan/TreeHole/edit/master/README.md) 
 
+### Day2
+```markdown
+# 
+```
 
 
 ### Day1
 
-[^-^]:注释能看到么
+
 ```markdown
-Syntax highlighted code block
+# 题目
+## public if you don’t shy
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhanghfan/TreeHole/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
