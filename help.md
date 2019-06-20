@@ -2,7 +2,7 @@
 ## 1.注册GitHub
 * 地址https://github.com/
 * 注册界面
-![图1](picture1.png)又看不见
+![图1](https://github.com/zhanghfan/TreeHole/picture1.png)
 ## 2.登录自己的GitHub账户
 ## 3.找到项目地址:https://github.com/zhanghfan/TreeHole
 ## 4.点击右上角的folk
