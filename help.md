@@ -19,3 +19,10 @@
 * 文件夹中右键打开gitbash
 * 输入命令git clone https://github.com/zhanghfan/TreeHole
 ## 5.接下来就可以修改代码了
+### (二)超简单但不推荐
+* 直接在web页面修改
+* 地址:https://github.com/zhanghfan/TreeHole
+* 修改哪个文件就直接点进去
+* 直接点击铅笔符号就可以
+* 如下图
+![picture2](/picture/picture2.PNG)
